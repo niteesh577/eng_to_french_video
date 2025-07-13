@@ -102,11 +102,6 @@ ai_dubber_app/
 
 ---
 
-## 📄 License
-MIT License (see LICENSE)
-
----
-
 ## 🙋 FAQ
 - **Q:** Can I use other languages?  
   **A:** The code is modular—add more translation/TTS logic for other languages!
