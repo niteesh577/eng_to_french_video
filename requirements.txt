@@ -1,0 +1,25 @@
+# Core dependencies
+streamlit
+langchain
+google-generativeai
+pytesseract
+moviepy
+python-dotenv
+
+# Audio and ML dependencies (with version constraints for NumPy compatibility)
+numpy<2.0.0
+torch
+torchvision
+openai-whisper
+elevenlabs
+
+# Additional dependencies for simplified lip-sync
+librosa
+opencv-python
+
+# Subtitle and video processing
+pysrt
+
+# Optional: For logging, error handling, and utility
+loguru
+requests

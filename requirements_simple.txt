@@ -1,0 +1,19 @@
+# Core dependencies (minimal set)
+streamlit
+python-dotenv
+requests
+
+# Video processing
+moviepy
+
+# Optional: Add these later when NumPy issues are resolved
+# openai-whisper
+# torch
+# torchvision
+# librosa
+# opencv-python
+# pytesseract
+# pysrt
+# langchain
+# google-generativeai
+# elevenlabs 

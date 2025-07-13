@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit/media/temp files
+output/
+*.wav
+*.mp3
+*.mp4
+*.srt
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# __pycache__, coverage, pytest cache
+.pytest_cache/
+.coverage
