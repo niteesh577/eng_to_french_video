@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import uuid
 from utils import transcription, translation, tts, lip_sync, ocr, subtitles
+from ai_dubber_app.config import settings
 
 st.set_page_config(page_title="AI Video Dubber", layout="centered")
 st.title("🎬 AI Video Dubber: English → French")
