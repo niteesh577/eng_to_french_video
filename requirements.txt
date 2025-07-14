@@ -23,3 +23,6 @@ pysrt
 # Optional: For logging, error handling, and utility
 loguru
 requests
+
+libgl1
+libglib2.0-0
