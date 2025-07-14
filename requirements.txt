@@ -3,7 +3,7 @@ streamlit
 langchain
 google-generativeai
 pytesseract
-moviepy
+moviepy==1.0.3
 python-dotenv
 
 # Audio and ML dependencies (with version constraints for NumPy compatibility)
